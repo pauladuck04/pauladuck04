@@ -6,7 +6,7 @@
 
 - :credit_card: My full name is **Paula Pato Gómez** 
 - :school: This september I will be starting my master's degree of Computer Engineering & Bidg Data in **Universidad Carlos III**
-- :earth_asia: I'm living now in **Madrid, Spain**
+- :earth_asia: I'm living now in **Ourense, Spain**
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Some Languages and Tools
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c++&logoColor=white)  ![Python](https://img.shields.io/badge/python-ffdd54?style=for-the-badge&logo=python&logoColor=3670A0)
