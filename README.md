@@ -5,7 +5,7 @@
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
 - :credit_card: My full name is **Paula Pato Gómez** 
-- :school: This september I will be starting my master's degree of Computer Engineering & Bidg Data in **Universidad Carlos III**
+- :school: This september I will be starting my master's degree of Computer Engineering & Big Data in **Universidad Carlos III**
 - :earth_asia: I'm living now in **Ourense, Spain**
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Some Languages and Tools
